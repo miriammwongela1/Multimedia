@@ -8,9 +8,15 @@ body, html {
 body{
     background-color: rgba(207, 161, 113, 0.599);
 }
-
-h1{
+header{
     text-align: center;
+    background-color: rgb(113, 126, 126);
+}
+header img{
+    width: 100%;
+    height: 500px;
+    max-width: 600px;
+    max-height: 300px;
     
 }
 #content {
